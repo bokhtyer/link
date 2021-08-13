@@ -4,6 +4,7 @@ https://unsplash.com/
 
 apps.eky.hk/css-triangle-generator/
 
+
 https://bennettfeely.com/clippy/
 
 https://www.cssportal.com/css3-shapes/
@@ -25,3 +26,7 @@ https://wordpress.stackexchange.com/questions/203426/wp-customize-remove-section
 https://todoist.com/app/project/2259997886
 
 https://www.shutterstock.com/home
+
+Validator
+https://jigsaw.w3.org/css-validator/validator
+https://validator.w3.org
