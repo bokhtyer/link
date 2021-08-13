@@ -30,3 +30,6 @@ https://www.shutterstock.com/home
 Validator
 https://jigsaw.w3.org/css-validator/validator
 https://validator.w3.org
+
+//duplichecker
+https://www.duplichecker.com/
