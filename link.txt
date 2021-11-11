@@ -77,3 +77,7 @@ https://wordpress.stackexchange.com/questions/203426/wp-customize-remove-section
 https://todoist.com/app/project/2259997886
 
 https://www.shutterstock.com/home
+
+Color
+https://cssgradient.io/shades-of-blue/
+
