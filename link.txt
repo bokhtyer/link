@@ -81,3 +81,7 @@ https://www.shutterstock.com/home
 Color
 https://cssgradient.io/shades-of-blue/
 
+AOS Animation
+https://michalsnik.github.io/aos/
+
+
